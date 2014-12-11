@@ -1,0 +1,422 @@
+{
+"modules":[
+    {
+        "name": "BlackCat CMS Admin Tool and Widget",
+        "directory": "blackcat",
+        "guid": "CF217773-24C7-4DAB-954F-98D9F7118F7D",
+        "version": "0.5",
+        "author": "BlackCat  Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "BlackCat CMS Admin Tool and Widget - allows to check for new versions (widget demo)"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.0"
+            }
+        }
+    },
+    {
+        "name": "BlackCat CMS Output Filters",
+        "directory": "blackcatFilter",
+        "guid": "CE82BB3C-C6B1-4A6D-810A-19BD015230A9",
+        "version": "0.2",
+        "author": "Black Cat Development",
+        "license": "copyright, all rights reserved",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "Adds extendable and configurable output filters to your frontend"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "Droplets",
+        "directory": "droplets",
+        "guid": "FDAF7FBF-DE7F-4394-81DC-8D139EA3216C",
+        "version": "4.0",
+        "author": "BlackCat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "This tool allows you to manage your Droplets."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "jQuery Plugin Manager",
+        "directory": "jquery_plugin_mgr",
+        "guid": "FEB740BA-3F75-577B-0ACB-984EFEA9001D",
+        "version": "0.1",
+        "author": "Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "N",
+        "description": {
+            "en": {
+                "title": "jQuery Plugin Manager"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "CSRF-Magic for BlackCat CMS",
+        "directory": "lib_csrfmagic",
+        "guid": "4FA14CDB-B45B-438A-932D-A32C0EFB1FD2",
+        "version": "1.1.1",
+        "author": "CSRF-Magic by http:\/\/csrf.htmlpurifier.org\/; this module by Black Cat Development",
+        "license": "CSRF-Magic BSD License, this module GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "CSRF-Magic v1.0.4"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "Doctrine DBAL for BlackCat CMS",
+        "directory": "lib_doctrine",
+        "guid": "52BD02E9-EC8E-4B43-813C-B89448D32150",
+        "version": "0.1",
+        "author": "Doctrine Project see http:\/\/www.doctrine-project.org\/about.html; this module created Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "Doctrine DBAL v2.3.4 for use with BlackCat CMS"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "Dwoo Library for BlackCat CMS",
+        "directory": "lib_dwoo",
+        "guid": "0266338D-DC1E-4815-B308-F9A6CB84448C",
+        "version": "0.13",
+        "author": "Dwoo\/Jordi Boggiano, this module Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "Dwoo PHP5 Template Engine, Release 1.1.1"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "getID3 PHP media file parser",
+        "directory": "lib_getid3",
+        "guid": "4AD71FD0-3176-42AB-BC9E-5EDF7E3D35FF",
+        "version": "0.4",
+        "author": "getID3() by James Heinrich <info@getid3.org>; this module Black Cat Development",
+        "license": "GNU General Public License 2.0",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "getID3 PHP media file parser (v1.9.7)"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "class.Images.php for BlackCat CMS",
+        "directory": "lib_images",
+        "guid": "C6A310F1-A270-4079-9EF3-977AA7EF380F",
+        "version": "0.3.1",
+        "author": "class.Images.php - Manuel Reinhard; this module - Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "class.Images.php - A class to handle and manipulate images"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "jQuery \/ jQuery UI JavaScript Library",
+        "directory": "lib_jquery",
+        "guid": "8FB09FFD-B11C-4B75-984E-F54082B4DEEA",
+        "version": "2.4",
+        "author": "BlackBird",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "This module installs the jQuery JavaScript Library and the jQuery UI Library. You may use it as a lib for your own JavaScripts."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "pclzip",
+        "directory": "lib_pclzip",
+        "guid": "0C3AD4DD-9387-40DC-94E6-DC09598C3AAB",
+        "version": "1.2",
+        "author": "Vincent Blavet",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "ZIP library for BlackCat CMS"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "BlackCat CMS Default Search Engine",
+        "directory": "lib_search",
+        "guid": "8F2B9826-59BD-4C84-BF4D-477CA30C74B6",
+        "version": "0.13",
+        "author": "Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "The default search engine for BlackCat CMS"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "Zend LITE",
+        "directory": "lib_zendlite",
+        "guid": "A92FCDB7-3DAE-4E8D-A673-C2A3542776E0",
+        "version": "2.0",
+        "author": "Zend Framework by Zend Technologies; this module Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "Some (!) Zend 2 components for use with Black Cat CMS"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "Menu Link",
+        "directory": "menu_link",
+        "guid": "452f0da3-3bc1-43bc-b2ad-491ae8494c6e",
+        "version": "2.8.2",
+        "author": "Ryan Djurovich, thorn",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "This module allows you to insert a link into the menu."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "show_menu2",
+        "directory": "show_menu2",
+        "guid": "b859d102-881d-4259-b91d-b5a1b57ab100",
+        "version": "4.9.7",
+        "author": "Brodie Thiesfield, Aldus, erpe, Black Cat Development",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "A code snippet providing a complete replacement for the built-in menu functions. See <a href=\"http:\/\/code.jellycan.com\/files\/show_menu2-README.txt\" target=\"_blank\">readme<\/a> for details."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "2.x"
+            }
+        }
+    },
+    {
+        "name": "Wrapper",
+        "directory": "wrapper",
+        "guid": "a5830654-06f3-402a-9d25-a03c53fc5574",
+        "version": "3.0",
+        "author": "Ryan Djurovich, Dietrich Roland Pehlke, Black Cat Development (last)",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "This module allows you to wrap your site around another using an inline frame"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "2.x"
+            }
+        }
+    },
+    {
+        "name": "WYSIWYG",
+        "directory": "wysiwyg",
+        "guid": "DA07DFA3-7592-4781-89C2-D549DD77B017",
+        "version": "3.0.5",
+        "author": "Ryan Djurovich, Dietrich Roland Pehlke (last)",
+        "license": "GNU General Public License",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "This module allows you to edit the contents of a page using a graphical editor."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "WYSIWYG Admin",
+        "directory": "wysiwyg_admin",
+        "guid": "D15D8D69-1B67-4994-85A3-1F9E067DBCC1",
+        "version": "2.1",
+        "author": "Black Cat Development",
+        "license": "<a href=\"http:\/\/www.gnu.org\/licenses\/\" target=\"_blank\">GNU GPL<\/a>",
+        "bundled": "Y",
+        "description": {
+            "en": {
+                "title": "WYSIWYG Admin allows to manage some editor options, which are skin, toolbar, height and width by default. There may be additional options defined by the editor itself."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "2.x"
+            }
+        }
+    },
+    {
+        "name": "CKEditor v4.x",
+        "directory": "ckeditor4",
+        "guid": "002870FF-37A7-4D47-9712-318D1B4E450A",
+        "version": "0.14",
+        "author": "Black Cat Development",
+        "license": "<a target=\"_blank\" href=\"http:\/\/www.gnu.org\/licenses\/lgpl.html\">LGPL<\/a>",
+        "bundled": "N",
+        "description": {
+            "en": {
+                "title": "includes CKEditor 4.1.3; CKE allows editing content and can be integrated in frontend and backend modules."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "SecurImage PHP Captcha Library",
+        "directory": "lib_securimage",
+        "guid": "8E18ECB6-D409-4A1A-8028-F0BCD10917E8",
+        "version": "1.0",
+        "author": "Drew Phillips (http:\/\/www.phpcaptcha.org\/); Black Cat CMS Development (Module)",
+        "license": "GNU General Public License",
+        "bundled": "N",
+        "description": {
+            "en": {
+                "title": "SecurImage PHP Captcha Library for Black Cat CMS"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "Swift Mailer Library",
+        "directory": "lib_swift",
+        "guid": "51A8BC35-171D-44AF-8284-2D86862B22C3",
+        "version": "1.1",
+        "author": "Chris Corbyn (Swift Library); Black Cat CMS Development (Module)",
+        "license": "GNU General Public License",
+        "bundled": "N",
+        "description": {
+            "en": {
+                "title": "Swift Mailer for Black Cat CMS (v5.0.1)"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    },
+    {
+        "name": "blackGallery",
+        "directory": "blackGallery",
+        "guid": "F70C37F8-C73E-A016-FD63-3F3166B7AFC1",
+        "version": "0.10",
+        "author": "BlackBird Webprogrammierung",
+        "license": "GNU General Public License",
+        "bundled": "N",
+        "description": {
+            "en": {
+                "title": "Creates an image gallery based on an existing directory structure. Inspired by the popular FG for Websitebaker, but completely rewritten for BlackCat CMS."
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.x"
+            }
+        }
+    }
+]
+}
