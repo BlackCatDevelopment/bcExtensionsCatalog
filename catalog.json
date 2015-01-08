@@ -403,7 +403,7 @@
         "name": "blackGallery",
         "directory": "blackGallery",
         "guid": "F70C37F8-C73E-A016-FD63-3F3166B7AFC1",
-        "version": "0.10",
+        "version": "0.12",
         "author": "BlackBird Webprogrammierung",
         "license": "GNU General Public License",
         "bundled": "N",
@@ -415,6 +415,25 @@
         "require": {
             "core": {
                 "release": "1.x"
+            }
+        }
+    },
+        {
+        "name": "catGallery",
+        "directory": "cc_catgallery",
+        "guid": "273cc174-604b-489a-9042-6955dc193d4e",
+        "version": "2.0.4",
+        "author": "Matthias Glienke, creativecat.de",
+        "license": "GNU General Public License",
+        "bundled": "N",
+        "description": {
+            "en": {
+                "title": "The add on \"catGallery\" provides a simple way to integrate a sliding media box or simple gallery on your website. For details see <a href=\"https://github.com/BlackCatDevelopment/catGallery_for_BlackCatCMS\" target=\"_blank\">GitHub</a>.<br/><br/>Done by Matthias Glienke, <a class=\"icon-creativecat\" href=\"http://creativecat.de\"> creativecat</a>"
+            }
+        },
+        "require": {
+            "core": {
+                "release": "1.1"
             }
         }
     }
