@@ -1,5 +1,5 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -627,6 +627,30 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "MultiColumn_for_BlackCatCMS"
+            }
+        },
+        {
+            "name": "BlackCat CMS Visitor Statistics",
+            "directory": "BCStats",
+            "guid": "F48EAF3C-4D2F-503C-36A7-FAEF3BF3A0A0",
+            "version": "0.5",
+            "author": "Black Cat Development",
+            "license": "GNU General Public License",
+            "bundled": "N",
+            "since": "16.06.2015 11:36:03",
+            "description": {
+                "en": {
+                    "title": "BlackCat CMS Visitor Statistics"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.x"
+                }
+            },
+            "github": {
+                "organization": "webbird",
+                "repository": "bcstats_for_BlackCatCMS"
             }
         }
     ]
