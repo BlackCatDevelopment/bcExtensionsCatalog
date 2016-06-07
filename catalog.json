@@ -159,6 +159,10 @@
                     "title": "getID3 PHP media file parser (v1.9.12)"
                 }
             },
+            "github": {
+                "organization": "BlackCatDevelopment",
+                "repository": "getid3_for_BlackCatCMS"
+            },
             "require": {
                 "core": {
                     "release": "1.x"
