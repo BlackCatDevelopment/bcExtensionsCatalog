@@ -25,7 +25,7 @@
             "name": "BlackCat CMS Output Filters",
             "directory": "blackcatFilter",
             "guid": "CE82BB3C-C6B1-4A6D-810A-19BD015230A9",
-            "version": "0.2",
+            "version": "0.3",
             "author": "Black Cat Development",
             "license": "copyright, all rights reserved",
             "bundled": "Y",
