@@ -1,5 +1,5 @@
 {
-    "version": "0.1.9",
+    "version": "0.1.10",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -679,6 +679,30 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "SEOTool_for_BlackCatCMS"
+            }
+        },
+        {
+            "name": "ChartJS",
+            "directory": "lib_chartjs",
+            "guid": "4932159E-DBD2-4A1E-84BB-E364DFB451CE",
+            "version": "0.2",
+            "author": "ChartJS - Nick Downie; this module - Black Cat Development",
+            "license": "GNU General Public License",
+            "bundled": "N",
+            "since": "15.06.2016 17:32:00",
+            "description": {
+                "en": {
+                    "title": "Simple, clean and engaging charts for designers and developers"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.2"
+                }
+            },
+            "github": {
+                "organization": "BlackCatDevelopment",
+                "repository": "ChartJS_for_BlackCatCMS"
             }
         }
     ]
