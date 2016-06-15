@@ -1,5 +1,5 @@
 {
-    "version": "0.1.7",
+    "version": "0.1.8",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -655,6 +655,30 @@
             "github": {
                 "organization": "webbird",
                 "repository": "bcstats_for_BlackCatCMS"
+            }
+        },
+        {
+            "name": "SEOTool",
+            "directory": "seotool",
+            "guid": "410CEFAE-3F11-215F-A1C7-E60651764259",
+            "version": "0.1",
+            "author": "Black Cat Development",
+            "license": "GNU General Public License",
+            "bundled": "N",
+            "since": "15.06.2016 15:08:55",
+            "description": {
+                "en": {
+                    "title": "BlackCat CMS SEO Tool for experienced administrators"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.2"
+                }
+            },
+            "github": {
+                "organization": "BlackCatDevelopment",
+                "repository": "SEOTool_for_BlackCatCMS"
             }
         }
     ]
