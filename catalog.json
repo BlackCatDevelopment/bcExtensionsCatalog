@@ -1,5 +1,5 @@
 {
-    "version": "0.1.11",
+    "version": "0.1.12",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -565,7 +565,7 @@
             "name": "blackForms",
             "directory": "blackForms",
             "guid": "719D19C8-8981-D710-D248-DA00E59A6D86",
-            "version": "0.11",
+            "version": "0.12",
             "author": "Bianka Martinovic",
             "license": "GNU General Public License",
             "bundled": "N",
