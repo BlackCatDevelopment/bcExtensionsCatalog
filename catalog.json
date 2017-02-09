@@ -1,11 +1,11 @@
 {
-    "version": "0.1.12",
+    "version": "0.1.13",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
             "directory": "blackcat",
             "guid": "CF217773-24C7-4DAB-954F-98D9F7118F7D",
-            "version": "0.6",
+            "version": "0.8",
             "author": "BlackCat  Development",
             "license": "GNU General Public License",
             "bundled": "Y",
