@@ -738,6 +738,7 @@
             "licence": "GNU General Public License",
             "bundled": "N",
             "since": "31.08.2017 16:23:00",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=108",
             "description": {
                 "de": {
                     "title": "Ermöglicht das Anzeigen von Open Street Maps Karten"
