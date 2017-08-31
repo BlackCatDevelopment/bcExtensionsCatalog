@@ -728,6 +728,26 @@
                 "organization": "BlackCatDevelopment",
                 "repository": "Bootstrap_for_BlackCatCMS"
             }
-}
+        },
+        {
+            "name": "LeafletMaps",
+            "directory": "LeafletMaps",
+            "guid": "7741329D-EA1C-550C-4C89-B6291DA69179",
+            "version": "0.5",
+            "author": "this module - BlackBird Webprogrammierung",
+            "licence": "GNU General Public License",
+            "bundled": "N",
+            "since": "31.08.2017 16:23:00",
+            "description": {
+                "de": {
+                    "title": "Ermöglicht das Anzeigen von Open Street Maps Karten"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.2"
+                }
+            }
+        }
     ]
 }
