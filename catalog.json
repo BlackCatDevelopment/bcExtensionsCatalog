@@ -1,5 +1,5 @@
 {
-    "version": "0.1.14",
+    "version": "0.1.15",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -733,7 +733,7 @@
             "name": "LeafletMaps",
             "directory": "LeafletMaps",
             "guid": "7741329D-EA1C-550C-4C89-B6291DA69179",
-            "version": "0.5",
+            "version": "1.0",
             "author": "this module - BlackBird Webprogrammierung",
             "licence": "GNU General Public License",
             "bundled": "N",
