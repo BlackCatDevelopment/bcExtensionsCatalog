@@ -1,5 +1,5 @@
 {
-    "version": "0.1.15",
+    "version": "0.1.16",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -426,6 +426,7 @@
             "license": "GNU General Public License",
             "bundled": "N",
             "since": "08.01.2015 17:27:13",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=83",
             "description": {
                 "en": {
                     "title": "Swift Mailer for Black Cat CMS (v5.4.1)"
@@ -733,7 +734,7 @@
             "name": "LeafletMaps",
             "directory": "LeafletMaps",
             "guid": "7741329D-EA1C-550C-4C89-B6291DA69179",
-            "version": "1.0",
+            "version": "1.1.1",
             "author": "this module - BlackBird Webprogrammierung",
             "licence": "GNU General Public License",
             "bundled": "N",
