@@ -1,5 +1,5 @@
 {
-    "version": "0.1.17",
+    "version": "0.1.18",
     "modules": [
         {
             "name": "BlackCat CMS Admin Tool and Widget",
@@ -638,7 +638,7 @@
             "name": "BlackCat CMS Visitor Statistics",
             "directory": "BCStats",
             "guid": "F48EAF3C-4D2F-503C-36A7-FAEF3BF3A0A0",
-            "version": "0.7",
+            "version": "0.8",
             "author": "Black Cat Development",
             "license": "GNU General Public License",
             "bundled": "N",
