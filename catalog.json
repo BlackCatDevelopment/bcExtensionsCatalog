@@ -1,5 +1,5 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "modules": [
         {
             "name": "960 Grid System",
@@ -206,7 +206,7 @@
             "name": "DataTables",
             "directory": "datatables",
             "guid": "CA9E0AB0-782A-5DFC-EC44-3DA11A420443",
-            "version": "0.7",
+            "version": "0.6",
             "author": "BlackBird Webprogrammierung",
             "license": "GNU General Public License",
             "bundled": "N",
