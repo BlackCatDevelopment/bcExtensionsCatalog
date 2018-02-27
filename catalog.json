@@ -1,5 +1,5 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "modules": [
         {
             "name": "960 Grid System",
@@ -47,33 +47,6 @@
                 "core": {
                     "release": "1.x"
                 }
-            }
-        },
-        {
-            "name": "BlackCat CMS Visitor Statistics",
-            "directory": "BCStats",
-            "guid": "F48EAF3C-4D2F-503C-36A7-FAEF3BF3A0A0",
-            "version": "0.8",
-            "author": "Black Cat Development",
-            "license": "GNU General Public License",
-            "bundled": "N",
-            "since": "16.06.2015 11:36:03",
-            "description": {
-                "en": {
-                    "title": "Please note: The installation may lasts very long. You may need to increase PHP timeout settings for installation."
-                },
-                "de": {
-                    "title": "Hinweis: Die Installation dauert evtl. sehr lange. Es kann notwendig ein, die PHP Timeout-Einstellungen vor der Installation zu erhöhen."
-                }
-            },
-            "require": {
-                "core": {
-                    "release": "1.x"
-                }
-            },
-            "github": {
-                "organization": "webbird",
-                "repository": "bcstats_for_BlackCatCMS"
             }
         },
         {
