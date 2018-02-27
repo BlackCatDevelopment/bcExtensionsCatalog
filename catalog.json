@@ -77,31 +77,6 @@
             }
         },
         {
-            "name": "BlackNews",
-            "directory": "blacknews",
-            "guid": "9ee2f6b5-ccfb-49c5-8a12-417b67cfe367",
-            "version": "0.5",
-            "author": "Matthias Glienke, creativecat",
-            "license": "GNU General Public License",
-            "bundled": "N",
-            "since": "18.02.2015 17:40:07",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=114",
-            "description": {
-                "en": {
-                    "title": "With the add on \"BlackNews\" you publish news on your side in a simple way. For details see <a href=\"https:\/\/github.com\/BlackCatDevelopment\/BlackNews_for_BlackCatCMS\" target=\"_blank\">GitHub<\/a>.<br\/><br\/>Done by Matthias Glienke, <a class=\"icon-creativecat\" href=\"http:\/\/creativecat.de\"> creativecat<\/a>"
-                }
-            },
-            "require": {
-                "core": {
-                    "release": "1.x"
-                }
-            },
-            "github": {
-                "organization": "BlackCatDevelopment",
-                "repository": "BlackNews_for_BlackCatCMS"
-            }
-        },
-        {
             "name": "Bootstrap 3.3.7",
             "directory": "lib_bootstrap",
             "guid": "3929179D-0D39-5C16-97FC-17E72AFCD5D1",
@@ -127,30 +102,6 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "Bootstrap_for_BlackCatCMS"
-            }
-        },
-        {
-            "name": "catGallery",
-            "directory": "cc_catgallery",
-            "guid": "273cc174-604b-489a-9042-6955dc193d4e",
-            "version": "2.0",
-            "author": "Matthias Glienke, creativecat.de",
-            "license": "GNU General Public License",
-            "bundled": "N",
-            "since": "08.01.2015 17:27:13",
-            "description": {
-                "en": {
-                    "title": "The add on \"catGallery\" provides a simple way to integrate a sliding media box or simple gallery on your website. For details see <a href=\"https:\/\/github.com\/BlackCatDevelopment\/catGallery_for_BlackCatCMS\" target=\"_blank\">GitHub<\/a>.<br\/><br\/>Done by Matthias Glienke, <a class=\"icon-creativecat\" href=\"http:\/\/creativecat.de\"> creativecat<\/a>"
-                }
-            },
-            "require": {
-                "core": {
-                    "release": "1.1"
-                }
-            },
-            "github": {
-                "organization": "BlackCatDevelopment",
-                "repository": "catGallery_for_BlackCatCMS"
             }
         },
         {
