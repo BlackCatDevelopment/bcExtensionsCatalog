@@ -1,5 +1,5 @@
 {
-    "version": "0.2.6",
+    "version": "0.2.7",
     "modules": [
         {
             "name": "960 Grid System",
@@ -318,10 +318,10 @@
             "licence": "GNU General Public License",
             "bundled": "N",
             "since": "05.03.2018 13:47:00",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=116",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=117",
             "description": {
                 "en": {
-                    "title": "SimplePie RSS feed parser v1.5 (<a href=\"http://simplepie.org/\" target=\"_blank\">http://simplepie.org/</a>"
+                    "title": "SimplePie RSS feed parser v1.5 (<a href=\"http://simplepie.org/\" target=\"_blank\">http://simplepie.org/</a>)"
                 }
             },
             "require": {
