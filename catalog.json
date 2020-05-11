@@ -1,5 +1,5 @@
 {
-    "version": "0.2.8",
+    "version": "0.2.9",
     "modules": [
         {
             "name": "960 Grid System",
@@ -466,6 +466,30 @@
                 "core": {
                     "release": "1.3.3"
                 }
+            }
+        },
+        {
+            "name": "jQuery / jQuery UI",
+            "directory": "lib_jquery",
+            "guid": "8FB09FFD-B11C-4B75-984E-F54082B4DEEA",
+            "version": "2.7",
+            "author": "BlackBird Webprogrammierung",
+            "license": "GPL",
+            "bundled": "Y",
+            "since": "11.05.2020",
+            "description": {
+                "de": {
+                    "title": "jQuery / jQuery UI JavaScript Library"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.3.3"
+                }
+            },
+            "github": {
+                "organization": "BlackCatDevelopment",
+                "repository": "lib_jquery"
             }
         }
     ]
