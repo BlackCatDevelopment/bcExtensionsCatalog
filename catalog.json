@@ -1,5 +1,5 @@
 {
-    "version": "0.2.10",
+    "version": "0.2.11",
     "modules": [
         {
             "name": "960 Grid System",
@@ -496,7 +496,7 @@
             "name": "CookieConsent",
             "directory": "cookieconsent",
             "guid": "0C573DF6-A8D9-F782-EE6E-0C4E3C7A6912",
-            "version": "0.1",
+            "version": "0.2",
             "author": "BlackBird Webprogrammierung",
             "license": "GPL",
             "bundled": "N",
