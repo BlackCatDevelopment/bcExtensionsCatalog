@@ -1,5 +1,5 @@
 {
-    "version": "0.2.9",
+    "version": "0.2.10",
     "modules": [
         {
             "name": "960 Grid System",
@@ -490,6 +490,30 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "lib_jquery"
+            }
+        },
+        {
+            "name": "CookieConsent",
+            "directory": "cookieconsent",
+            "guid": "0C573DF6-A8D9-F782-EE6E-0C4E3C7A6912",
+            "version": "0.1",
+            "author": "BlackBird Webprogrammierung",
+            "license": "GPL",
+            "bundled": "N",
+            "since": "10.08.2020",
+            "description": {
+                "de": {
+                    "title": "The original free open source cookie consent popup for BC1"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.3"
+                }
+            },
+            "github": {
+                "organization": "BlackCatDevelopment",
+                "repository": "bc_cookieconsent"
             }
         }
     ]
