@@ -1,5 +1,5 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "modules": [
         {
             "name": "960 Grid System",
@@ -520,15 +520,15 @@
             "name": "Bootstrap 4",
             "directory": "lib_bootstrap_4",
             "guid": "65215B2E-3459-2D05-434F-2A079DD45595",
-            "version": "1.0",
+            "version": "1.1",
             "author": "Dirk Grebe",
             "license": "GPL",
             "bundled": "N",
             "since": "12.08.2020",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=129",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=135",
             "description": {
                 "de": {
-                    "title": "Bootstrap 4.4.1 for BlackCat CMS, including Bootswatch Themes"
+                    "title": "Bootstrap 4.5.2 for BlackCat CMS, including Bootswatch Themes"
                 }
             },
             "require": {
