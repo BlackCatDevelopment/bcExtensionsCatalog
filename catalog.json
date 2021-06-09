@@ -78,31 +78,6 @@
             }
         },
         {
-            "name": "ChartJS",
-            "directory": "lib_chartjs",
-            "guid": "4932159E-DBD2-4A1E-84BB-E364DFB451CE",
-            "version": "0.2",
-            "author": "ChartJS - Nick Downie; this module - Black Cat Development",
-            "license": "GNU General Public License",
-            "bundled": "N",
-            "since": "15.06.2016 17:32:00",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=69",
-            "description": {
-                "en": {
-                    "title": "Simple, clean and engaging charts for designers and developers"
-                }
-            },
-            "require": {
-                "core": {
-                    "release": "1.2"
-                }
-            },
-            "github": {
-                "organization": "BlackCatDevelopment",
-                "repository": "ChartJS_for_BlackCatCMS"
-            }
-        },
-        {
             "name": "CKEditor v4.x",
             "directory": "ckeditor4",
             "guid": "002870FF-37A7-4D47-9712-318D1B4E450A",
