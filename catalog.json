@@ -1,5 +1,5 @@
 {
-    "version": "0.4",
+    "version": "0.4.1",
     "modules": [
         {
             "name": "960 Grid System",
@@ -359,7 +359,7 @@
             "name": "SEOTool",
             "directory": "seotool",
             "guid": "410CEFAE-3F11-215F-A1C7-E60651764259",
-            "version": "0.3",
+            "version": "0.4",
             "author": "Black Cat Development",
             "license": "GNU General Public License",
             "bundled": "N",
