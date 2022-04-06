@@ -309,20 +309,20 @@
             "name": "Swift Mailer Library",
             "directory": "lib_swift",
             "guid": "51A8BC35-171D-44AF-8284-2D86862B22C3",
-            "version": "1.5",
+            "version": "1.6",
             "author": "Chris Corbyn (Swift Library); Black Cat CMS Development (Module)",
             "license": "GNU General Public License",
             "bundled": "N",
-            "since": "08.01.2015 17:27:13",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=83",
+            "since": "06.04.2022 17:10:00",
+            "download": "https://github.com/BlackCatDevelopment/swiftmailer_for_BlackCatCMS/archive/refs/tags/v1.6.zip",
             "description": {
                 "en": {
-                    "title": "Swift Mailer for Black Cat CMS (v5.4.1)"
+                    "title": "Swift Mailer for Black Cat CMS (v6.3.0)"
                 }
             },
             "require": {
                 "core": {
-                    "release": "1.x"
+                    "release": "1.5"
                 }
             },
             "github": {
