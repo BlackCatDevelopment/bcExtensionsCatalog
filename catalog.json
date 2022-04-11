@@ -1,5 +1,5 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "modules": [
         {
             "name": "960 Grid System",
@@ -534,6 +534,30 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "getid3_for_BlackCatCMS"
+            }
+        },
+        {
+            "name": "PHPMailer v6.x Library",
+            "directory": "lib_phpmailer6",
+            "guid": "A27ACAAB-0B75-D253-C122-4910D24A055A",
+            "version": "0.1",
+            "author": "BlackBird Webprogrammierung (Module)",
+            "license": "GNU General Public License (module); GNU Lesser General Public License (PHPMailer)",
+            "bundled": "N",
+            "since": "11.04.2022",
+            "description": {
+                "en": {
+                    "title": "PHPMailer Library (v6.x) for use with Black Cat CMS"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.4"
+                }
+            },
+            "github": {
+                "organization": "BlackCatDevelopment",
+                "repository": "PHPMailer6_for_BlackCatCMS"
             }
         }
     ]
