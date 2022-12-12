@@ -1,5 +1,5 @@
 {
-    "version": "0.5",
+    "version": "0.6",
     "modules": [
         {
             "name": "960 Grid System",
@@ -47,34 +47,6 @@
                 "core": {
                     "release": "1.x"
                 }
-            }
-        },
-        {
-            "name": "Bootstrap 3.3.7",
-            "directory": "lib_bootstrap",
-            "guid": "3929179D-0D39-5C16-97FC-17E72AFCD5D1",
-            "version": "0.7",
-            "author": "this module - Black Cat Development",
-            "license": "GNU General Public License",
-            "bundled": "N",
-            "since": "11.08.2017 11:54:00",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=106",
-            "description": {
-                "de": {
-                    "title": "Bootstrap CSS Framework als Bibliothek für eigene Templates"
-                },
-                "en": {
-                    "title": "Bootstrap CSS Framework as Library for your Templates"
-                }
-            },
-            "require": {
-                "core": {
-                    "release": "1.2"
-                }
-            },
-            "github": {
-                "organization": "BlackCatDevelopment",
-                "repository": "Bootstrap_for_BlackCatCMS"
             }
         },
         {
@@ -165,30 +137,6 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "Editarea_for_BlackCatCMS"
-            }
-        },
-        {
-            "name": "FeedReader",
-            "directory": "feedreader",
-            "guid": "734A5E7C-B46E-DCE0-168E-F9275C619690",
-            "version": "0.3",
-            "author": "BlackBird Webprogrammierung",
-            "license": "GNU General Public License",
-            "bundled": "N",
-            "since": "27.02.2018 17:12:20",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=80",
-            "description": {
-                "en": {
-                    "title": "Allows to include an external RSS Feed into to frontpage"
-                },
-                "de": {
-                    "title": "Ermöglicht die Anzeige eines externen RSS Feeds im Frontend"
-                }
-            },
-            "require": {
-                "core": {
-                    "release": "1.x"
-                }
             }
         },
         {
@@ -548,6 +496,27 @@
             "description": {
                 "en": {
                     "title": "Displays an RSS feed on the page; requires lib_simplepie"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.3"
+                }
+            }
+        },
+        {
+            "name": "BlackNews",
+            "directory": "blacknews",
+            "guid": "9ee2f6b5-ccfb-49c5-8a12-417b67cfe367",
+            "version": "0.6",
+            "author": "Matthias Glienke, creativecat",
+            "license": "GNU General Public License",
+            "bundled": "N",
+            "since": "12.12.2022",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=144",
+            "description": {
+                "en": {
+                    "title": "Publish news on your side in a simple way"
                 }
             },
             "require": {
