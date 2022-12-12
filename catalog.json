@@ -1,5 +1,5 @@
 {
-    "version": "0.4.4",
+    "version": "0.5",
     "modules": [
         {
             "name": "960 Grid System",
@@ -533,6 +533,27 @@
             "github": {
                 "organization": "BlackCatDevelopment",
                 "repository": "PHPMailer6_for_BlackCatCMS"
+            }
+        },
+        {
+            "name": "RSS Feed Reader",
+            "directory": "feedreader",
+            "guid": "734A5E7C-B46E-DCE0-168E-F9275C619690",
+            "version": "0.3",
+            "author": "BlackBird Webprogrammierung (Module)",
+            "license": "GNU General Public License",
+            "bundled": "N",
+            "since": "12.12.2022",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=143",
+            "description": {
+                "en": {
+                    "title": "Displays an RSS feed on the page; requires lib_simplepie"
+                }
+            },
+            "require": {
+                "core": {
+                    "release": "1.3"
+                }
             }
         }
     ]
