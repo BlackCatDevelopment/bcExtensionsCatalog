@@ -1,5 +1,5 @@
 {
-    "version": "0.6",
+    "version": "0.6.1",
     "modules": [
         {
             "name": "960 Grid System",
@@ -29,12 +29,12 @@
             "name": "BCComments",
             "directory": "bccomments",
             "guid": "4859802A-610C-B863-35AB-33FA825543AA",
-            "version": "0.3",
+            "version": "0.4",
             "author": "BlackBird Webprogrammierung",
             "license": "GNU General Public License",
             "bundled": "N",
             "since": "27.02.2018 17:02:12",
-            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=115",
+            "download": "https://blackcat-cms.org/modules/wbProfiles/ajax/download.php?section_id=7&dl=145",
             "description": {
                 "de": {
                     "title": "Eigenständiges Kommentarmodul zum Einsatz auf beliebigen Seiten"
