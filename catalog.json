@@ -1,5 +1,5 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "modules": [
     {
       "name": "BCComments",
@@ -440,7 +440,7 @@
       "license": "GNU General Public License",
       "bundled": "N",
       "since": "18.03.2023",
-      "download": "https://github.com/BlackCatDevelopment/catGallery_for_BlackCatCMS/archive/refs/tags/v2.0.zip",
+      "download": "https://github.com/BlackCatDevelopment/catGallery_for_BlackCatCMS/archive/refs/tags/v3.0.zip",
       "description": {
         "en": {
           "title": "Provides a simple way to integrate a sliding media box or simple gallery on your website"
